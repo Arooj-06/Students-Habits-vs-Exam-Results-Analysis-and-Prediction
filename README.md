@@ -96,6 +96,18 @@ Based on the analysis:
 
 In the future, this project can be improved by adding a machine learning model to predict exam scores based on student habits. Regression models such as Linear Regression, Random Forest Regressor, or Gradient Boosting can be used for prediction.
 
+## Sample Outputs
+
+The project includes:
+
+- Missing values check
+- Summary statistics
+- Correlation heatmap
+- Study hours vs exam score graph
+- Screen time vs exam score graph
+- Attendance vs exam score graph
+- Actual vs predicted exam score plot
+
 ## Project Files
 
 ```text
